@@ -1,2 +1,1 @@
-# Numpy-practice
-numpy_practice
+hello
